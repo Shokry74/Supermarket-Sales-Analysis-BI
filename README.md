@@ -10,4 +10,4 @@ KPI Analysis: Identifying high-performing products, peak sales times, and custom
 Insights Generation: Highlighting actionable insights to optimize inventory, target marketing efforts, and improve sales strategies.
 This project demonstrates the ability to utilize Power BI for advanced data visualization and business decision-making.
 
-![Uploading Dashboard.JPG…]()
+![Dashboard](https://github.com/user-attachments/assets/a1e1c8b4-1d18-4da4-bde2-951bfdd8df1c)
